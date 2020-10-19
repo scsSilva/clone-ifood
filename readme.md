@@ -94,7 +94,7 @@
 <br>
 
 <div>
-1. Execute o comando: <strong>git clone</strong> https://github.com/scsSilva/app-ifood-ui-clone.git
+1. Execute o comando: <strong>git clone</strong> https://github.com/scsSilva/clone-ifood.git
 </div>
 
   <br>
